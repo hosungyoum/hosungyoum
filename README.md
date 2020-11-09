@@ -1,6 +1,6 @@
-### Hi there 👋
+### Let me start by saying that I am very pleased to meet you:) 👋
 
-### 🌱 I’m currently learning Swift 
+### I'm currently working on Project Manager
 
 <!--
 **hosungyoum/hosungyoum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
