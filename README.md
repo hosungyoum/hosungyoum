@@ -1,7 +1,9 @@
-### Let me start by saying that I am very pleased to meet you:) 👋
+### Let me start by saying that I am very pleased to meet you🙂
 
-### I'm currently working on Project Manager
+### 👨🏻‍💻 I am currently working as a PM
 
+### I'm happy to collaborate with other people on any projects.
+ 
 <!--
 **hosungyoum/hosungyoum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
